@@ -2,6 +2,7 @@
 % - How to synthesize a sine wave
 % - Nyquist/sampling rate intuition
 % - Spectrogram vs waveform
+%changes made
 
 clc; clear; close all;
 
